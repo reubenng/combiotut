@@ -1,4 +1,4 @@
-#  COMP3212 Computational Biology Lab 1
+# Computational Biology Lab 1
 
 ## needlemanwunsch.m
 ### implement Needleman-Wunsch for proteins
